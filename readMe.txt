@@ -1,6 +1,4 @@
-CNG 462 - Artificial Intelligence - Assignment 1
-Berke Diler - 2401503
-Bedirhan Ozkan - 2453470
+
 -Program Description-
 This program implements the A* search algorithm to find the shortest path between points on a map.
 The map and the points (nodes) are defined in separate files.
